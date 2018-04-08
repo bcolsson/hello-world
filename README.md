@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Typing some words in this text editor.
+
+How'd I do?
